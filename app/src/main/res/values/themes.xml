@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Follows the system light/dark mode; Compose draws the actual colors. -->
+    <style name="Theme.GPLauncher" parent="android:Theme.DeviceDefault.DayNight">
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>

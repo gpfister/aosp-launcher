@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.kotlin/
+
+# Local configuration
+local.properties
+*.keystore
+*.jks
+
+# Android Studio / IntelliJ
+.idea/
+.run/
+*.iml
+*.ipr
+*.iws
+out/
+.externalNativeBuild/
+.cxx/
+captures/
+*.hprof
+
+# macOS
+.DS_Store
